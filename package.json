@@ -1,0 +1,31 @@
+{
+  "name": "react-page-builder-beautiful-dnd",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/core": "10.0.5",
+    "@emotion/styled": "10.0.5",
+    "react": "16.5.2",
+    "react-beautiful-dnd": "10.0.3",
+    "react-dom": "16.5.2",
+    "react-tabs": "^2.3.0",
+    "smooth-dnd": "0.6.3"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11",
+    "@vitejs/plugin-react": "^4.2.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
